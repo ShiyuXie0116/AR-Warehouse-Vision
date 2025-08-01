@@ -27,7 +27,6 @@ This repository contains the data collection and generation pipeline for an AR-e
 - **Description**: Real-world warehouse and shelf detection datasets
 - **Size**: 5,000+ annotated images
 - **Source Links**:
- - [Warehouse Dataset 1](https://universe.roboflow.com/workspace/warehouse-dataset)
  - [Shelf Detection Dataset](https://universe.roboflow.com/search?q=shelf)
  - [Inventory Management Dataset](https://universe.roboflow.com/search?q=inventory)
 - **Usage**: Validation and domain adaptation
