@@ -1,0 +1,24 @@
+{
+  "info": "This is a sample annotation file for SKU-110K dataset",
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sample_001.jpg",
+      "width": 640,
+      "height": 480
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [100, 100, 200, 200],
+      "area": 40000,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {"id": 1, "name": "product"}
+  ]
+}
